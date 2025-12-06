@@ -1,4 +1,0 @@
-# Ignorar arquivos temporários
-.DS_Store
-node_modules/
-.vscode/
