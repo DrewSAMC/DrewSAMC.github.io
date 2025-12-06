@@ -22,5 +22,3 @@ Se quiser, eu posso:
 - Gerar a versão com carregamento dinâmico das publicações a partir de um arquivo JSON.
 - Preparar o repositório pronto para GitHub Pages com instruções passo a passo.
 - Gerar um domínio customizado e instruções para configurá-lo.
-
-Diga qual desses você prefere que eu faça em seguida.
